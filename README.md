@@ -1,1 +1,2 @@
-# Netflix_sql_project
+# Solved Netflix data related problems using SQL
+![Netflix_logo]()
